@@ -22,29 +22,7 @@ Melisen Courts is a hospitality website built to showcase the hotel's accommodat
 - **[Tailwind CSS](https://tailwindcss.com/)** - Utility-first CSS framework for styling
 - **[React Icons](https://react-icons.github.io/react-icons/)** - Icon library
 
-## Project Structure
 
-```
-melisen-courts/
-├── public/              # Static assets (images)
-├── src/
-│   ├── components/      # Reusable React components
-│   │   ├── Header.jsx
-│   │   ├── Hero.jsx
-│   │   ├── About.jsx
-│   │   ├── Rooms.jsx
-│   │   ├── Facilities.jsx
-│   │   ├── Contact.jsx
-│   │   └── Footer.jsx
-│   ├── App.jsx          # Main application component
-│   ├── main.jsx         # Application entry point
-│   └── index.css        # Global styles with Tailwind directives
-├── index.html
-├── package.json
-├── tailwind.config.js
-├── postcss.config.js
-└── vite.config.js
-```
 
 ## Features
 
